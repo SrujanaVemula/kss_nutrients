@@ -242,19 +242,7 @@
     <!--  end body content -->
     <?php include("includes/footer.html") ?>
     <?php include("includes/include_js.html") ?>
-    <script>
-    // $("#contact-form").ajaxForm({
-    // 	success: function ($response) {
-    // 		if ($response == 1) {
-    // 			document.getElementById("contact-form").reset();
-    // 			$('#thank-you-msg').show();
-    // 			setTimeout(function () {
-    // 				$('#thank-you-msg').hide();
-    // 			}, 5000);
-    // 		}
-    // 	}
-    // });
-    </script>
+
 </body>
 
 </html>

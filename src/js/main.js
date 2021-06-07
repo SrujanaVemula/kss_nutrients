@@ -113,6 +113,7 @@ $(document).ready(function (evt) {
             slidesToShow: 1,
             slidesToScroll: 1,
         });
+
         var dots = $(".slick-dots li");
         if (dots.length == 1) {
             $(".slick-dots").css("display", "none");
